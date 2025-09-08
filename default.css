@@ -339,6 +339,13 @@ h6 { font-size: 16px;}
 	box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 }
 
+.post:hover{
+	background-color: black;
+	border-width: 10px;
+	border-radius: 15px;
+	transition-delay: 8ms;
+}   
+
 .thumbnail{
 	display: block;
 	width: 100%;
